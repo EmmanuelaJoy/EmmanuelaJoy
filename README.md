@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=emmanuelajoy&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelajoy" /> </p>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=32&duration=4000&pause=1000&color=111111&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuela+Joy" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=32&duration=4000&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuela+Joy" alt="Typing SVG" /></a></h1>
 
 <div align="center"> 
   <a href="mailto:emmajoy81@gmail.com">
