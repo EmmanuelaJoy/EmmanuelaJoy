@@ -41,9 +41,8 @@ A seasoned mobile app developer with a keen eye for design, specializing in mobi
 <br>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelaJoy&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=EmmanuelaJoy&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelaJoy&theme=city_light&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelaJoy&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ---
