@@ -26,9 +26,9 @@
 
 A seasoned mobile app developer with a keen eye for design, specializing in mobile application development using Flutter.<br>
 
-- 🔭 I’m currently working on [Jampos Mobile App.](https://play.google.com/store/apps/details?id=jampos.app.jampos&hl=en&gl=US&pli=1)
+- 🔭 I’m currently working on [Bonga-CX Mobile App.](https://play.google.com/store/apps/details?id=dialafrika.com.bonga)
 
-- 🌱 I’m currently learning **state management using Flutter.**
+- 🌱 I’m currently learning **VoIP technologies.**
 
 - 👯 I’m looking to collaborate on **a chat application.**
 
