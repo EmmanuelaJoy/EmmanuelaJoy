@@ -26,9 +26,9 @@
 
 A seasoned mobile app developer with a keen eye for design, specializing in mobile application development using Flutter.<br>
 
-- 🔭 I’m currently working on [Bonga-CX Mobile App.](https://play.google.com/store/apps/details?id=dialafrika.com.bonga)
+- 🔭 I’m currently working on **a multi-platform desktop app.**
 
-- 🌱 I’m currently learning **VoIP technologies.**
+- 🌱 I’m currently learning **Cloud Computing & DevOps.**
 
 - 👯 I’m looking to collaborate on **a chat application.**
 
